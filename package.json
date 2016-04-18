@@ -1,0 +1,24 @@
+{
+  "name": "imgCode",
+  "version": "1.0.0",
+  "description": "a demo for img code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babybreath/imgCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babybreath/imgCode/issues"
+  },
+  "homepage": "https://github.com/babybreath/imgCode#readme",
+  "dependencies": {
+    "ccap": "^0.6.4",
+    "node-uuid": "^1.4.7"
+  }
+}
